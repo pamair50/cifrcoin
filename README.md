@@ -7,7 +7,7 @@ You can find more over at https://github.com/cifrcoin-core/cifrcoin
 What is CifrCoin?
 ----------------
 
-CifrCoin (CFR) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
+CifrCoin (CIFR) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
 
 For more information, as well as an immediately useable, binary version of the CifrCoin Core software, see https://cifrcoin.io
 
@@ -17,17 +17,17 @@ Launch Date: January 10th, 2014
 
 Blockchain Type: Public, Decentralized, UTXO based, Multi-Algorithm
 
-Ticker Symbol: CFR
+Ticker Symbol: CIFR
 
 Genesis Block Hash: "USA Today: 10/Jan/2014, Target: Data stolen from up to 110M customers"
 
 Max Total Supply: 21 Billion CifrCoins in 21 Years (2035)
 
-Current Supply: 11,692,747,373 CFR (April 2019)
+Current Supply: 11,692,747,373 CIFR (April 2019)
 
 Block Reward Reduction: 1% Monthly
 
-Current Block Reward: 688 CFR (April 2019)
+Current Block Reward: 688 CIFR (April 2019)
 
 Mining Algorithms: Five individual: SHA256, Scrypt, Odocrypt, Skein & Qubit
 
