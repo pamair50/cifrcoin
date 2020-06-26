@@ -1,33 +1,33 @@
-Development is now occurring on the DigiByte-Core repo
+Development is now occurring on the CifrCoin-Core repo
 ----------------
-As of 2020, development has now moved to the DigiByte-Core organization, under the digibyte repo
+As of 2020, development has now moved to the CifrCoin-Core organization, under the cifrcoin repo
 
-You can find more over at https://github.com/digibyte-core/digibyte
+You can find more over at https://github.com/cifrcoin-core/cifrcoin
 
-What is DigiByte?
+What is CifrCoin?
 ----------------
 
-DigiByte (DGB) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
+CifrCoin (CFR) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
 
-For more information, as well as an immediately useable, binary version of the DigiByte Core software, see https://digibyte.io
+For more information, as well as an immediately useable, binary version of the CifrCoin Core software, see https://cifrcoin.io
 
-DigiByte FAQ
+CifrCoin FAQ
 -------------
 Launch Date: January 10th, 2014
 
 Blockchain Type: Public, Decentralized, UTXO based, Multi-Algorithm
 
-Ticker Symbol: DGB
+Ticker Symbol: CFR
 
 Genesis Block Hash: "USA Today: 10/Jan/2014, Target: Data stolen from up to 110M customers"
 
-Max Total Supply: 21 Billion DigiBytes in 21 Years (2035)
+Max Total Supply: 21 Billion CifrCoins in 21 Years (2035)
 
-Current Supply: 11,692,747,373 DGB (April 2019)
+Current Supply: 11,692,747,373 CFR (April 2019)
 
 Block Reward Reduction: 1% Monthly
 
-Current Block Reward: 688 DGB (April 2019)
+Current Block Reward: 688 CFR (April 2019)
 
 Mining Algorithms: Five individual: SHA256, Scrypt, Odocrypt, Skein & Qubit
 
@@ -43,7 +43,7 @@ Hardforks: 4. DigiShield, MultiAlgo, MultiShield, DigiSpeed
 
 Softforks: 3. SegWit, CSV, NVersionBits
 
-You can mine DigiByte on one of five separate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentralization than other blockchains. An attacker with 99% of of any individual algorithm would still be unable to hardfork the blockchain, making DigiByte much more secure against PoW attacks than other blockchains.
+You can mine CifrCoin on one of five separate mining algorithms. Each algo averages out to mine 20% of new blocks. This allows for much greater decentralization than other blockchains. An attacker with 99% of of any individual algorithm would still be unable to hardfork the blockchain, making CifrCoin much more secure against PoW attacks than other blockchains.
 
 DigiShield Hardfork: Block 67,200, Feb. 28th, 2014
 
@@ -55,47 +55,47 @@ DigiSpeed Hardfork: Block 1,430,000 Dec. 4th 2015
 
 Odocrypt Hardfork: Block 9,112,320 July 22nd 2019
 
-DigiByte vs Bitcoin
+CifrCoin vs Bitcoin
 -------------------
 
-Security: 5 DigiByte mining algorithms vs. 1 Bitcoin mining algorithm.
-DigiByte mining is much more decentralized.
-DigiByte mining algorithms can be changed out in the future to prevent centralization.
+Security: 5 CifrCoin mining algorithms vs. 1 Bitcoin mining algorithm.
+CifrCoin mining is much more decentralized.
+CifrCoin mining algorithms can be changed out in the future to prevent centralization.
 
-Speed: DigiByte transactions occur much faster than Bitcoin transactions.
+Speed: CifrCoin transactions occur much faster than Bitcoin transactions.
 1-2 second transaction notifications.
-15 second DigiByte blocks vs. 10 minute Bitcoin blocks.
-DigiByte has 6x block confirmations 1.5 minutes vs. 1 hour with Bitcoin.
+15 second CifrCoin blocks vs. 10 minute Bitcoin blocks.
+CifrCoin has 6x block confirmations 1.5 minutes vs. 1 hour with Bitcoin.
 
-Transaction Volume: DigiByte can handle many more transactions per second.
+Transaction Volume: CifrCoin can handle many more transactions per second.
 Bitcoin can only handle 3-4 transactions per second.
-DigiByte currently can handle 560+ transactions per second.
+CifrCoin currently can handle 560+ transactions per second.
 The 2015 DigiSpeed hardfork introduced changes that double the capacity of the network every two years.
 
-Total Supply: More DigiBytes, lower price, more micro transactions, better price stability.
-21 billion DigiBytes will be created over 21 years.
+Total Supply: More CifrCoins, lower price, more micro transactions, better price stability.
+21 billion CifrCoins will be created over 21 years.
 Only 21 million Bitcoin will be created over 140 years.
-1000:1 ratio. 1000 DigiByte for every Bitcoin.
+1000:1 ratio. 1000 CifrCoin for every Bitcoin.
 
 Flexibility: Ability to quickly add new features.
-DigiByte can add new features & upgrades much quicker than Bitcoin.
-Future DigiByte upgrades will push transaction limit to several hundred thousand per second.
+CifrCoin can add new features & upgrades much quicker than Bitcoin.
+Future CifrCoin upgrades will push transaction limit to several hundred thousand per second.
 
-Marketability & Usability: DigiByte is an easy brand to market to consumers.
-DigiBytes are much cheaper to acquire.
+Marketability & Usability: CifrCoin is an easy brand to market to consumers.
+CifrCoins are much cheaper to acquire.
 
 License
 -------
 
-DigiByte Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+CifrCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/digibyte/digibyte/tags) are created
-regularly to indicate new official, stable release versions of DigiByte Core.
+completely stable. [Tags](https://github.com/cifrcoin/cifrcoin/tags) are created
+regularly to indicate new official, stable release versions of CifrCoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -121,4 +121,3 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
-
